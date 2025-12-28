@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working in Tech Mahindra<br>I'm working on the atex.africa project<br>I dedicate my free time to social causes, particularly feeding and caring for animals and birds.
+Technical Manager with 13+ years of IT experience and 10+ years in Magento and eCommerce platforms, leading end-to-end delivery of enterprise-scale solutions. Proven expertise in managing cross-functional teams of 5–30 members, defining technical architecture, driving Agile delivery, and ensuring high availability, scalability, and performance of Magento-based systems.<br>I'm working on the atex.africa project<br>I dedicate my free time to social causes, particularly feeding and caring for animals and birds.
 
 
 ## 🌐 Socials:
